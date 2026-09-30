@@ -1,0 +1,11 @@
+{
+  "reponame": "stratus",
+  "productname": "Stratus",
+  "productdomain": "orun-stratus.dev",
+  "apibaseurl": "https://api.orun-stratus.dev",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "org_42a77cd5fb494e52bb11c674b0fa45f4",
+  "githuborg": "pullely",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
